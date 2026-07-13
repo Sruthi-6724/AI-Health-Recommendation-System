@@ -1,0 +1,4 @@
+Dataset,Rows,Columns,Missing Values,Duplicates,Memory (MB)
+Diabetes,768,9,0,0,0.05
+Nutrition,7413,48,3570,0,4.49
+Exercise,248,6,0,0,0.03

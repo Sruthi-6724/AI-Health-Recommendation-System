@@ -1,0 +1,2 @@
+Total Samples,Training Samples,Testing Samples,Number of Features,Models Trained,Best Model,Best Test Accuracy,Best F1 Score,Best Precision,Best Recall
+768,614,154,15,3,Random Forest,0.7532467532467533,0.6346153846153846,0.66,0.6111111111111112
